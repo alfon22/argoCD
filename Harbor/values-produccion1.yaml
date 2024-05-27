@@ -1,2 +1,0 @@
-bitnami/harbor:
-  namespaceOverride: harbor

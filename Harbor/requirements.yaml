@@ -1,4 +1,0 @@
-dependencies:
-- name: bitnami/harbor
-  version: 21.2.1
-  repository: https://charts.bitnami.com/bitnami
