@@ -1,0 +1,8 @@
+superset:
+  runAsUser: 1000
+  supersetNode:
+    replicaCount: 2
+    autoscaling:
+      enabled: true
+  init:
+    loadExamples: true
