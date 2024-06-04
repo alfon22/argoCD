@@ -1,4 +1,0 @@
-dependencies:
-- name: superset
-  version: 0.12.11
-  repository: https://chart.testarchitect.com
